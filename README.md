@@ -14,9 +14,10 @@
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=siralexeu&theme=radical)
 
 ## 🌟 Proiecte favorite
-- [Proiect 1](https://github.com/siralexeu/Proiect1): Descriere scurtă
-- [Proiect 2](https://github.com/siralexeu/Proiect2): Descriere scurtă
-
+- [Proiect 1](https://github.com/siralexeu/MyGameList): Descriere scurtă
+- [Proiect 2](https://mcdonald-financial-analysis.streamlit.app/): Descriere scurtă
+<!--
 ## 📫 Contact
 - Email: [email@example.com](mailto:email@example.com)
 - LinkedIn: [Profil LinkedIn](https://linkedin.com/in/siralexeu)
+-->
