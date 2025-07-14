@@ -1,4 +1,4 @@
-# Salut! 👋 Eu sunt alex
+# Salut! 👋 Eu sunt SIR
 
 ## 📊 Statistici despre profilul meu
 
