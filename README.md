@@ -14,8 +14,8 @@
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=siralexeu&theme=radical)
 
 ## 🌟 Proiecte favorite
-- [Proiect 1](https://github.com/siralexeu/MyGameList): Descriere scurtă
-- [Proiect 2](https://mcdonald-financial-analysis.streamlit.app/): Descriere scurtă
+- [MyGameList](https://github.com/siralexeu/MyGameList): Descriere scurtă
+- [mcdonald-financial-analysis](https://mcdonald-financial-analysis.streamlit.app/): Descriere scurtă
 <!--
 ## 📫 Contact
 - Email: [email@example.com](mailto:email@example.com)
