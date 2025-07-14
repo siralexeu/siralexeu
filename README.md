@@ -1,5 +1,3 @@
-# Salut! 👋 Eu sunt SIR
-
 ## 📊 Statistici despre profilul meu
 
 ![Statistici GitHub](https://github-readme-stats.vercel.app/api?username=siralexeu&show_icons=true&theme=radical)
