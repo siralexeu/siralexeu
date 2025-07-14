@@ -1,16 +1,22 @@
-## Hi there 👋
+# Salut! 👋 Eu sunt alex
 
+## 📊 Statistici despre profilul meu
 
-**siralexeu/siralexeu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Statistici GitHub](https://github-readme-stats.vercel.app/api?username=siralexeu&show_icons=true&theme=radical)
+![Limbaje utilizate](https://github-readme-stats.vercel.app/api/top-langs/?username=siralexeu&layout=compact&theme=radical)
 
-Here are some ideas to get you started:
+## 🏆 Trofee GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![Trofee](https://github-profile-trophy.vercel.app/?username=siralexeu&theme=radical)
 
+## 🔥 Streak-uri de contribuții
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=siralexeu&theme=radical)
+
+## 🌟 Proiecte favorite
+- [Proiect 1](https://github.com/siralexeu/Proiect1): Descriere scurtă
+- [Proiect 2](https://github.com/siralexeu/Proiect2): Descriere scurtă
+
+## 📫 Contact
+- Email: [email@example.com](mailto:email@example.com)
+- LinkedIn: [Profil LinkedIn](https://linkedin.com/in/siralexeu)
