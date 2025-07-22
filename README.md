@@ -4,8 +4,8 @@
 ![Limbaje utilizate](https://github-readme-stats.vercel.app/api/top-langs/?username=siralexeu&layout=compact&theme=radical)
 
 ## 🌟 Proiecte favorite
-- [MyGameList](https://github.com/siralexeu/MyGameList): Descriere scurtă
-- [mcdonald-financial-analysis](https://mcdonald-financial-analysis.streamlit.app/): Descriere scurtă
+- [MyGameList](https://github.com/siralexeu/MyGameList): Licenta aplicatie pt gestionarea bibliotecii de jocuri
+- [mcdonald-financial-analysis](https://mcdonald-financial-analysis.streamlit.app/): Proiect streamlit
 
 ## 🏆 Trofee GitHub
 
