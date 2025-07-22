@@ -1,6 +1,6 @@
 ## 🌟 Proiecte favorite
-- [MyGameList](mygamelist-e336.onrender.com/): Aplicatie licenta pt GESTIONAREA BIBLIOTECII DE JOCURI
-- [mcdonald-financial-analysis](https://mcdonald-financial-analysis.streamlit.app/): Proiect streamlit
+- Aplicatie licenta pt GESTIONAREA BIBLIOTECII DE JOCURI: [MyGameList](mygamelist-e336.onrender.com/)
+- Proiect streamlit: [mcdonald-financial-analysis](https://mcdonald-financial-analysis.streamlit.app/) 
 
 
 ## 📊 Statistici despre profilul meu
