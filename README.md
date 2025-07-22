@@ -2,13 +2,13 @@
 - [MyGameList](mygamelist-e336.onrender.com/): Licenta aplicatie pt GESTIONAREA BIBLIOTECII DE JOCURI
 - [mcdonald-financial-analysis](https://mcdonald-financial-analysis.streamlit.app/): Proiect streamlit
 
-<!--
+
 ## 📊 Statistici despre profilul meu
 
 ![Statistici GitHub](https://github-readme-stats.vercel.app/api?username=siralexeu&show_icons=true&theme=radical)
 ![Limbaje utilizate](https://github-readme-stats.vercel.app/api/top-langs/?username=siralexeu&layout=compact&theme=radical)
 
-
+<!--
 ## 🏆 Trofee GitHub
 
 ![Trofee](https://github-profile-trophy.vercel.app/?username=siralexeu&theme=radical)
