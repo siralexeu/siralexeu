@@ -6,7 +6,7 @@
 ## 📊 Statistici despre profilul meu
 
 
-[Limbaje utilizate](https://github-readme-stats.vercel.app/api/top-langs/?username=siralexeu&layout=compact&theme=radical)
+![Limbaje utilizate](https://github-readme-stats.vercel.app/api/top-langs/?username=siralexeu&layout=compact&theme=radical)
 
 <!--
 ![Statistici GitHub](https://github-readme-stats.vercel.app/api?username=siralexeu&show_icons=true&theme=radical)
