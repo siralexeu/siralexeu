@@ -1,7 +1,7 @@
 ## 🌟 Proiecte favorite
 - Aplicatie licenta pt GESTIONAREA BIBLIOTECII DE JOCURI: [MyGameList](https://mygamelist-e336.onrender.com/)
 - Proiect streamlit: [mcdonald-financial-analysis](https://mcdonald-financial-analysis.streamlit.app/)
-- Prezentare seminar 5 ( Chat cu PDF ) - PSI: [prezentare-seminar-5](https://prezentare-seminar-5.streamlit.app/)
+- 
 
 
 ## 📊 Statistici despre profilul meu
