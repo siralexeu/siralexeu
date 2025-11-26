@@ -1,4 +1,4 @@
-## 🌟 Proiecte favorite
+## 🌟 Proiecte 
 - Aplicatie licenta pt GESTIONAREA BIBLIOTECII DE JOCURI: [MyGameList](https://mygamelistapp.onrender.com/)
 - Proiect streamlit: [mcdonald-financial-analysis](https://mcdonald-financial-analysis.streamlit.app/)
 - 
