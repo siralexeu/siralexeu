@@ -47,7 +47,7 @@
 <img src="https://img.shields.io/badge/GitHub-555555?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-**Analiză financiară interactivă cu Streamlit**
+**Proiect Streamlit - Analiză financiară**
 
 ---
 
