@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/-DEMO%20LIVE-green?style=for-the-badge&color=3fFD7f">
 </a>
 <a href="https://github.com/siralexeu/MyGameList" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 
 **Aplicație de licență pentru gestionarea bibliotecii de jocuri**
