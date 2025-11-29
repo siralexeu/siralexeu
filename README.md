@@ -20,7 +20,7 @@
 
 
 <details>
-<summary>📈 Mai multe stats</summary>
+<summary>📈 Mai multe statistici</summary>
 
 ## 🏆 Trofee GitHub
 
