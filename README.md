@@ -13,13 +13,13 @@
 <code><a href="https://youtube.com/@username" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/youtube.svg" alt="YouTube" width="30" height="30"/></a></code>
 </p>
 
-### 🌟 Proiecte favorite
+## 🌟 Proiecte favorite
 
 Pasionat de programare și tehnologie. Lucrez cu diverse limbaje și framework-uri pentru a crea proiecte interesante.
 
 Întotdeauna deschis la colaborări și proiecte noi!
 
-### 🧠 Tehnologii și abilități
+## 🧠 Tehnologii și abilități
 
 <!--START_SECTION:technologies-->
 <code><img src="https://igorkowalczyk.dev/assets/tech/react.svg" alt="React icon" height="30" width="30" /></code>
@@ -40,7 +40,7 @@ Pasionat de programare și tehnologie. Lucrez cu diverse limbaje și framework-u
 <!--END_SECTION:technologies-->
 
 
-### 📊 Statistici GitHub
+## 📊 Statistici GitHub
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siralexeu&theme=github_dark)
 
@@ -49,7 +49,7 @@ Pasionat de programare și tehnologie. Lucrez cu diverse limbaje și framework-u
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=siralexeu&theme=dark)](https://git.io/streak-stats)
 
-### 🏆 Trofee GitHub
+## 🏆 Trofee GitHub
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=siralexeu&theme=darkhub&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
