@@ -23,28 +23,19 @@ Pasionat de programare și tehnologie. Lucrez cu diverse limbaje și framework-u
 
 <!--START_SECTION:technologies-->
 <code><img src="https://igorkowalczyk.dev/assets/tech/react.svg" alt="React icon" height="30" width="30" /></code>
-<code><img src="https://igorkowalczyk.dev/assets/tech/next.svg" alt="Next.js icon" height="30" width="30" /></code>
-<code><img src="https://igorkowalczyk.dev/assets/tech/tailwindcss.svg" alt="TailwindCSS icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/javascript.svg" alt="Javascript icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/typescript.svg" alt="Typescript icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/nodejs.svg" alt="Node.js icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/express.svg" alt="Express.js icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/npm.svg" alt="NPM icon" height="30" width="30" /></code>
-<code><img src="https://igorkowalczyk.dev/assets/tech/pnpm.svg" alt="PNPM icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/git.svg" alt="Git icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/github.svg" alt="Github icon" height="30" width="30" /></code>
-<code><img src="https://igorkowalczyk.dev/assets/tech/figma.svg" alt="Figma icon" height="30" width="30" /></code>
-<code><img src="https://igorkowalczyk.dev/assets/tech/turborepo.svg" alt="Turborepo icon" height="30" width="30" /></code>
-<code><img src="https://igorkowalczyk.dev/assets/tech/deno.svg" alt="Deno icon" height="30" width="30" /></code>
+<code><img src="https://igorkowalczyk.dev/assets/tech/tailwindcss.svg" alt="TailwindCSS icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/postgresql.svg" alt="PostgreSQL icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/mysql.svg" alt="MySQL icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/mongodb.svg" alt="MongoDB icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/discordjs.svg" alt="Discord.js icon" height="30" width="30" /></code>
-<code><img src="https://igorkowalczyk.dev/assets/tech/rollup.svg" alt="Rollup icon" height="30" width="30" /></code>
-<code><img src="https://igorkowalczyk.dev/assets/tech/docker.svg" alt="Docker icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/vercel.svg" alt="Vercel icon" height="30" width="30" /></code>
-<code><img src="https://igorkowalczyk.dev/assets/tech/astro.svg" alt="Astro icon" height="30" width="30" /></code>
-<code><img src="https://igorkowalczyk.dev/assets/tech/eslint.svg" alt="ESlint icon" height="30" width="30" /></code>
 <!-- List last updated on Fri Nov 28 2025 23:48:14 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:technologies-->
 
