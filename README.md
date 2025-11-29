@@ -1,5 +1,5 @@
 <!-- Schimbă avatar-ul cu al tău -->
-<img width="170" height="170" align="left" style="float: left; margin: 0 10px 0 0; border-radius: 50%;" alt="Avatar" src="https://github.com/siralexeu.png">
+<!-- <img width="170" height="170" align="left" style="float: left; margin: 0 10px 0 0; border-radius: 50%;" alt="Avatar" src="https://github.com/siralexeu.png"> -->
 
 ## Salut!
 
