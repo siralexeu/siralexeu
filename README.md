@@ -56,8 +56,9 @@
 <img src="https://img.shields.io/badge/-VEZI%20TOT-blueviolet?style=for-the-badge&logo=github">
 </a>
 
-**Descoperă și alte proiecte interesante pe GitHub!**
+**Descoperă toate proiectele**
 
+--- 
 
 ## 🧠 Tehnologii și abilități
 
