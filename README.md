@@ -15,13 +15,11 @@
 
 ## 🌟 Proiecte Favorite
 
-### 🎮 [MyGameList](https://mygamelistapp.onrender.com/) 
+### 🎮 **Aplicație licență pentru GESTIONAREA BIBLIOTECII DE JOCURI** [MyGameList](https://mygamelistapp.onrender.com/) 
 [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/siralexeu/MyGameList)
 [![Live](https://img.shields.io/badge/Demo-Live-success?style=for-the-badge)](https://mygamelistapp.onrender.com/)
 
-**Aplicație de licență pentru gestionarea bibliotecii de jocuri**
-- Stack: React, Node.js, PostgreSQL, Express
-- Features: Autentificare, CRUD operations, Dashboard interactiv
+
 
 ---
 
@@ -45,9 +43,9 @@
 
 ---
 
-
 ### 🚀 [Vezi toate proiectele →](https://github.com/siralexeu?tab=repositories)
 
+---
 
 ## 🧠 Tehnologii și abilități
 
