@@ -44,10 +44,8 @@ Pasionat de programare și tehnologie. Lucrez cu diverse limbaje și framework-u
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siralexeu&theme=github_dark)
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=siralexeu&theme=github_dark" alt="Limbaje" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=siralexeu&theme=github_dark" alt="Stats" />
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=siralexeu&theme=github_dark" alt="Limbaje" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=siralexeu&theme=github_dark" alt="Stats" />
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=siralexeu&theme=dark)](https://git.io/streak-stats)
 
