@@ -35,6 +35,7 @@ pr
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="30" width="30" /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="30" width="30" /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" height="30" width="30" /></code>
+<code><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/postman.svg" alt="Postman/API" height="30" width="30" /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" height="30" width="30" /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="30" width="30" /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="30" width="30" /></code>
@@ -47,18 +48,6 @@ pr
 <!--END_SECTION:technologies-->
 
 ## 📊 Statistici GitHub
-
-<!-- React Router -->
-<code><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/reactrouter.svg" alt="React Router" height="30" width="30" /></code>
-
-<!-- API / REST API -->
-<code><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/postman.svg" alt="Postman/API" height="30" width="30" /></code>
-<code><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/insomnia.svg" alt="Insomnia/API" height="30" width="30" /></code>
-
-<!-- Sau generic pentru REST API -->
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="API" height="30" width="30" /></code>
-
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siralexeu&theme=github_dark)
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=siralexeu&theme=github_dark" alt="Limbaje" />
