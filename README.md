@@ -17,7 +17,7 @@
 
 ### 🎮 MyGameList
 <a href="https://mygamelistapp.onrender.com/" target="_blank">
-<img src="https://img.shields.io/badge/-LIVE%20DEMO-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/-LIVE%20DEMO-blueviolet?style=for-the-badge&logo=react&logoColor=black">
 </a>
 <a href="https://github.com/siralexeu/MyGameList" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
