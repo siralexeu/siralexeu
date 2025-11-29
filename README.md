@@ -46,9 +46,7 @@ pr
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=siralexeu&theme=dark)](https://git.io/streak-stats)
 
-## 🏆 Trofee GitHub
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=siralexeu&theme=darkhub&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ![Limbaje utilizate](https://github-readme-stats.vercel.app/api/top-langs/?username=siralexeu&layout=compact&theme=radical)
