@@ -50,7 +50,7 @@ pr
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="30" /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="30" /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="30" /></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" width="30" /></code>
+<code><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/mysql.svg" height="30" width="30" /></code>
 
 ## 📊 Statistici GitHub
 
