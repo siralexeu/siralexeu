@@ -27,10 +27,7 @@
 [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/siralexeu/RAG-APP)
 [![Live](https://img.shields.io/badge/Demo-Live-success?style=for-the-badge)](https://groq-rag-app.streamlit.app/)
 
-**Chat cu fișiere PDF folosind AI**
-- Stack: Python, Streamlit, Groq API, LangChain
-- Features: Upload PDF, RAG (Retrieval Augmented Generation), Chat interface
-
+**Chat with PDF files AI**
 ---
 
 ### 📊 [McDonald's Financial Analysis](https://mcdonald-financial-analysis.streamlit.app/)
