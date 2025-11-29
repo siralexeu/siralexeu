@@ -1,7 +1,8 @@
 ## 🌟 Proiecte 
 - Aplicatie licenta pt GESTIONAREA BIBLIOTECII DE JOCURI: [MyGameList](https://mygamelistapp.onrender.com/)
-- Proiect streamlit: [mcdonald-financial-analysis](https://mcdonald-financial-analysis.streamlit.app/)
 - Chat with PDF files (streamlit app): [RAG-APP](https://groq-rag-app.streamlit.app/) 
+- Proiect streamlit: [mcdonald-financial-analysis](https://mcdonald-financial-analysis.streamlit.app/)
+
 
 
 ## 📊 Statistici despre profilul meu
