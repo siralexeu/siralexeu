@@ -17,10 +17,10 @@
 
 ### 🎮 MyGameList
 <a href="https://mygamelistapp.onrender.com/" target="_blank">
-<img src="https://img.shields.io/badge/-LIVE%20DEMO-blueviolet?style=for-the-badge">
+<img src="https://img.shields.io/badge/-LIVE%20DEMO-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 </a>
 <a href="https://github.com/siralexeu/MyGameList" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-ff9?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 **Aplicație de licență pentru gestionarea bibliotecii de jocuri**
@@ -32,7 +32,7 @@
 <img src="https://img.shields.io/badge/-LIVE%20DEMO-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
 </a>
 <a href="https://github.com/siralexeu/RAG-APP" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-ff9?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 **Chat cu fișiere PDF folosind AI (Streamlit)**
@@ -44,7 +44,7 @@
 <img src="https://img.shields.io/badge/-LIVE%20DEMO-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
 </a>
 <a href="https://github.com/siralexeu/mcdonald-financial-analysis" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-ff9?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 **Analiză financiară interactivă cu Streamlit**
@@ -53,7 +53,7 @@
 
 ### 🚀 Mai multe proiecte
 <a href="https://github.com/siralexeu?tab=repositories" target="_blank">
-<img src="https://img.shields.io/badge/-VEZI%20TOT-blueviolet?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/-VEZI%20TOT-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 **Descoperă toate proiectele**
