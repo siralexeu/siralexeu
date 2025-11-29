@@ -35,7 +35,7 @@
 <img src="https://img.shields.io/badge/GitHub-555555?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-**Chat cu fișiere PDF folosind AI (Streamlit)**
+**Chat with PDF files using AI (Streamlit)**
 
 ---
 
