@@ -27,30 +27,6 @@
 
 ---
 
-### 📄 RAG-APP
-<a href="https://groq-rag-app.streamlit.app/" target="_blank">
-<img src="https://img.shields.io/badge/-LIVE%20DEMO-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
-</a>
-<a href="https://github.com/siralexeu/Groq-RAG-App" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-555555?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-**Chat with PDF files using AI (Streamlit)**
-
----
-
-### 🐛 BugTracker
-<a href="https://siralexeu.github.io/BugTracker/" target="_blank">
-<img src="https://img.shields.io/badge/-LIVE%20DEMO-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-</a>
-<a href="https://github.com/siralexeu/BugTracker" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-555555?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-**Aplicație web pentru gestionarea rezolvării bug-urilor**
-
----
-
 ### 🏢 Citadin Consulting
 <a href="https://citadinconsulting.netlify.app/" target="_blank">
 <img src="https://img.shields.io/badge/-LIVE%20DEMO-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
@@ -59,7 +35,7 @@
 <img src="https://img.shields.io/badge/GitHub-555555?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-**Site web pentru firmă de contabilitate - HTML, CSS, JavaScript**
+**Site web pentru firmă de contabilitate **
 
 ---
 
