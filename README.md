@@ -15,35 +15,80 @@
 
 ## 🌟 Proiecte Favorite
 
-### 🎮 **Aplicație licență pentru GESTIONAREA BIBLIOTECII DE JOCURI** [MyGameList](https://mygamelistapp.onrender.com/) 
-[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/siralexeu/MyGameList)
-[![Live](https://img.shields.io/badge/Demo-Live-success?style=for-the-badge)](https://mygamelistapp.onrender.com/)
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">🎮 MyGameList</h3>
+<div align="center">
+<a href="https://mygamelistapp.onrender.com/" target="_blank">
+<img src="https://img.shields.io/badge/-DEMO%20LIVE-green?style=for-the-badge&color=3fFD7f">
+</a>
+<a href="https://github.com/siralexeu/MyGameList" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</div>
+<br>
+<p><strong>Aplicație de licență pentru gestionarea bibliotecii de jocuri</strong></p>
+<p>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white">
+</p>
+</td>
 
+<td width="50%">
+<h3 align="center">📄 RAG-APP</h3>
+<div align="center">
+<a href="https://groq-rag-app.streamlit.app/" target="_blank">
+<img src="https://img.shields.io/badge/-DEMO%20LIVE-green?style=for-the-badge&color=3fFD7f">
+</a>
+<a href="https://github.com/siralexeu/RAG-APP" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</div>
+<br>
+<p><strong>Chat cu fișiere PDF folosind AI (Streamlit)</strong></p>
+<p>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white">
+  <img src="https://img.shields.io/badge/-AI-412991?style=flat&logo=openai&logoColor=white">
+</p>
+</td>
+</tr>
 
+<tr>
+<td width="50%">
+<h3 align="center">📊 McDonald's Financial Analysis</h3>
+<div align="center">
+<a href="https://mcdonald-financial-analysis.streamlit.app/" target="_blank">
+<img src="https://img.shields.io/badge/-DEMO%20LIVE-green?style=for-the-badge&color=3fFD7f">
+</a>
+<a href="https://github.com/siralexeu/mcdonald-financial-analysis" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</div>
+<br>
+<p><strong>Analiză financiară interactivă cu Streamlit</strong></p>
+<p>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white">
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white">
+</p>
+</td>
 
----
-
-### 📄 [RAG-APP](https://groq-rag-app.streamlit.app/)
-[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/siralexeu/RAG-APP)
-[![Live](https://img.shields.io/badge/Demo-Live-success?style=for-the-badge)](https://groq-rag-app.streamlit.app/)
-
-**Chat with PDF files AI**
----
-
-### 📊 [McDonald's Financial Analysis](https://mcdonald-financial-analysis.streamlit.app/)
-[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/siralexeu/mcdonald-financial-analysis)
-[![Live](https://img.shields.io/badge/Demo-Live-success?style=for-the-badge)](https://mcdonald-financial-analysis.streamlit.app/)
-
-**Analiză financiară interactivă**
-- Stack: Python, Streamlit, Pandas, Plotly
-- Features: Visualizări interactive, Analiză de date, Grafice financiare
-
----
-
-### 🚀 [Vezi toate proiectele →](https://github.com/siralexeu?tab=repositories)
-
----
-
+<td width="50%">
+<h3 align="center">🚀 Mai multe proiecte</h3>
+<div align="center">
+<a href="https://github.com/siralexeu?tab=repositories" target="_blank">
+<img src="https://img.shields.io/badge/-VEZI%20TOT-blueviolet?style=for-the-badge&logo=github">
+</a>
+</div>
+<br>
+<p><strong>Descoperă și alte proiecte interesante</strong></p>
+<p>Explorează repository-urile mele pentru mai multe aplicații și experimente!</p>
+</td>
+</tr>
+</table>
 ## 🧠 Tehnologii și abilități
 
 <!--START_SECTION:technologies-->
