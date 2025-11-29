@@ -4,19 +4,19 @@
 - Proiect streamlit: [mcdonald-financial-analysis](https://mcdonald-financial-analysis.streamlit.app/)
 
 
-
 ## 📊 Statistici despre profilul meu
 
 
 ![Limbaje utilizate](https://github-readme-stats.vercel.app/api/top-langs/?username=siralexeu&layout=compact&theme=radical)
 
+![Statistici GitHub](https://github-readme-stats.vercel.app/api?username=siralexeu&show_icons=true&theme=radical)
+
+
+
 ## 🛠️ Tehnologii & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-
-![Statistici GitHub](https://github-readme-stats.vercel.app/api?username=siralexeu&show_icons=true&theme=radical)
 
 
 ## 🏆 Trofee GitHub
