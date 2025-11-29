@@ -42,8 +42,8 @@ pr
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" height="30" width="30" /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="Vercel" height="30" width="30" /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" alt="Heroku" height="30" width="30" /></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/railway/railway-original.svg" alt="Railway" height="30" width="30" /></code>
 <code><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/render.svg" alt="Render" height="30" width="30" /></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/railway/railway-original.svg" alt="Railway" height="30" width="30" /></code>
 <!--END_SECTION:technologies-->
 
 ## 📊 Statistici GitHub
