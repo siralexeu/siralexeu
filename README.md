@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/GitHub-555555?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-**Aplicație de licență pentru GESTIONAREA BIBLIOTECII DE JOCURI**
+Aplicație de licență pentru GESTIONAREA BIBLIOTECII DE JOCURI
 
 ---
 
@@ -35,7 +35,7 @@
 <img src="https://img.shields.io/badge/GitHub-555555?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-**Site web pentru firmă de contabilitate**
+Site web pentru firmă de contabilitate
 
 ---
 
