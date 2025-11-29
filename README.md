@@ -22,9 +22,6 @@
 <a href="https://github.com/siralexeu/MyGameList" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
-[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/siralexeu/MyGameList)
-[![Live](https://img.shields.io/badge/Demo-Live-success?style=for-the-badge)](https://mygamelistapp.onrender.com/)
-
 
 **Aplicație de licență pentru gestionarea bibliotecii de jocuri**
 
