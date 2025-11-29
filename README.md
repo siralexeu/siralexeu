@@ -15,9 +15,7 @@
 
 ## 🌟 Proiecte favorite
 
-Pasionat de programare și tehnologie. Lucrez cu diverse limbaje și framework-uri pentru a crea proiecte interesante.
-
-Întotdeauna deschis la colaborări și proiecte noi!
+pr
 
 ## 🧠 Tehnologii și abilități
 
@@ -51,6 +49,11 @@ Pasionat de programare și tehnologie. Lucrez cu diverse limbaje și framework-u
 ## 🏆 Trofee GitHub
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=siralexeu&theme=darkhub&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+![Limbaje utilizate](https://github-readme-stats.vercel.app/api/top-langs/?username=siralexeu&layout=compact&theme=radical)
+
+![Statistici GitHub](https://github-readme-stats.vercel.app/api?username=siralexeu&show_icons=true&theme=radical)
 
 ### 📈 Activitate Recentă
 
