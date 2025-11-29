@@ -31,11 +31,12 @@ pr
 <code><img src="https://igorkowalczyk.dev/assets/tech/tailwindcss.svg" alt="TailwindCSS icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/postgresql.svg" alt="PostgreSQL icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/mysql.svg" alt="MySQL icon" height="30" width="30" /></code>
-<code><img src="https://igorkowalczyk.dev/assets/tech/mongodb.svg" alt="MongoDB icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/discordjs.svg" alt="Discord.js icon" height="30" width="30" /></code>
 <code><img src="https://igorkowalczyk.dev/assets/tech/vercel.svg" alt="Vercel icon" height="30" width="30" /></code>
 <!-- List last updated on Fri Nov 28 2025 23:48:14 GMT+0000 (Coordinated Universal Time) -->
 <!--END_SECTION:technologies-->
+
+![Skills](https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,express,mongodb,mysql,postgresql,docker,git,github,vscode,figma)
 
 
 ## 📊 Statistici GitHub
