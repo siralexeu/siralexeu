@@ -31,7 +31,7 @@
 <a href="https://groq-rag-app.streamlit.app/" target="_blank">
 <img src="https://img.shields.io/badge/-LIVE%20DEMO-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
 </a>
-<a href="https://github.com/siralexeu/RAG-APP" target="_blank">
+<a href="[https://github.com/siralexeu/RAG-APP](https://github.com/siralexeu/Groq-RAG-App)" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-555555?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
