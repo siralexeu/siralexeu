@@ -15,33 +15,19 @@
 
 ## 🌟 Proiecte Favorite
 
-### 🎮 [MyGameList](https://mygamelistapp.onrender.com/) 
-[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/siralexeu/MyGameList)
-[![Live](https://img.shields.io/badge/Demo-Live-success?style=for-the-badge)](https://mygamelistapp.onrender.com/)
+🎮 **[MyGameList](https://mygamelistapp.onrender.com/)** · [Repo](https://github.com/siralexeu/MyGameList)  
+Aplicație de licență pentru gestionarea bibliotecii de jocuri  
+`React` `Node.js` `PostgreSQL` `Express`
 
-**Aplicație de licență pentru gestionarea bibliotecii de jocuri**
-- Stack: React, Node.js, PostgreSQL, Express
-- Features: Autentificare, CRUD operations, Dashboard interactiv
+📄 **[RAG-APP](https://groq-rag-app.streamlit.app/)** · [Repo](https://github.com/siralexeu/RAG-APP)  
+Chat cu fișiere PDF folosind AI  
+`Python` `Streamlit` `Groq API` `LangChain`
 
----
+📊 **[McDonald's Financial Analysis](https://mcdonald-financial-analysis.streamlit.app/)** · [Repo](https://github.com/siralexeu/mcdonald-financial-analysis)  
+Analiză financiară interactivă cu Streamlit  
+`Python` `Streamlit` `Pandas` `Plotly`
 
-### 📄 [RAG-APP](https://groq-rag-app.streamlit.app/)
-[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/siralexeu/RAG-APP)
-[![Live](https://img.shields.io/badge/Demo-Live-success?style=for-the-badge)](https://groq-rag-app.streamlit.app/)
-
-**Chat cu fișiere PDF folosind AI**
-- Stack: Python, Streamlit, Groq API, LangChain
-- Features: Upload PDF, RAG (Retrieval Augmented Generation), Chat interface
-
----
-
-### 📊 [McDonald's Financial Analysis](https://mcdonald-financial-analysis.streamlit.app/)
-[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/siralexeu/mcdonald-financial-analysis)
-[![Live](https://img.shields.io/badge/Demo-Live-success?style=for-the-badge)](https://mcdonald-financial-analysis.streamlit.app/)
-
-**Analiză financiară interactivă**
-- Stack: Python, Streamlit, Pandas, Plotly
-- Features: Visualizări interactive, Analiză de date, Grafice financiare
+➡️ **[Vezi toate proiectele](https://github.com/siralexeu?tab=repositories)**
 
 
 ## 🧠 Tehnologii și abilități
