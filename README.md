@@ -39,18 +39,6 @@
 
 ---
 
-### 📊 McDonald's Financial Analysis
-<a href="https://mcdonald-financial-analysis.streamlit.app/" target="_blank">
-<img src="https://img.shields.io/badge/-LIVE%20DEMO-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white">
-</a>
-<a href="https://github.com/siralexeu/mcdonald-financial-analysis" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-555555?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-**Proiect Streamlit - Analiză financiară**
-
----
-
 ### 🐛 BugTracker
 <a href="https://siralexeu.github.io/BugTracker/" target="_blank">
 <img src="https://img.shields.io/badge/-LIVE%20DEMO-61DAFB?style=for-the-badge&logo=react&logoColor=black">
