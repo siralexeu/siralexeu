@@ -48,6 +48,17 @@ pr
 
 ## 📊 Statistici GitHub
 
+<!-- React Router -->
+<code><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/reactrouter.svg" alt="React Router" height="30" width="30" /></code>
+
+<!-- API / REST API -->
+<code><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/postman.svg" alt="Postman/API" height="30" width="30" /></code>
+<code><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/insomnia.svg" alt="Insomnia/API" height="30" width="30" /></code>
+
+<!-- Sau generic pentru REST API -->
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="API" height="30" width="30" /></code>
+
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siralexeu&theme=github_dark)
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=siralexeu&theme=github_dark" alt="Limbaje" />
