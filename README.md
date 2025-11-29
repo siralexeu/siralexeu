@@ -60,7 +60,3 @@ Pasionat de programare și tehnologie. Lucrez cu diverse limbaje și framework-u
 <!--END_SECTION:activity-->
 
 ---
-
-<p align="center">
-  <i>Să rămânem conectați! 👋</i>
-</p>
