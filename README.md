@@ -60,6 +60,10 @@
 
 ## 🧠 Tehnologii și abilități
 
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/siralexeu/mcdonald-financial-analysis)
+[![Live](https://img.shields.io/badge/Demo-Live-success?style=for-the-badge)](https://mcdonald-financial-analysis.streamlit.app/)
+
+
 <!--START_SECTION:technologies-->
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="30" width="30" /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="30" width="30" /></code>
