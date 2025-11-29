@@ -11,7 +11,9 @@
 
 ![Statistici GitHub](https://github-readme-stats.vercel.app/api?username=siralexeu&show_icons=true&theme=radical)
 
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siralexeu&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=siralexeu&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=siralexeu&theme=radical)
 
 ## 🛠️ Tehnologii & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
