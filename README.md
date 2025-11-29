@@ -29,7 +29,7 @@
 
 ### 📄 RAG-APP
 <a href="https://groq-rag-app.streamlit.app/" target="_blank">
-<img src="https://img.shields.io/badge/-DEMO%20LIVE-green?style=for-the-badge&color=3fFD7f">
+<img src="https://img.shields.io/badge/-LIVE%20DEMO-green?style=for-the-badge&color=3fFD7f">
 </a>
 <a href="https://github.com/siralexeu/RAG-APP" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -41,7 +41,7 @@
 
 ### 📊 McDonald's Financial Analysis
 <a href="https://mcdonald-financial-analysis.streamlit.app/" target="_blank">
-<img src="https://img.shields.io/badge/-DEMO%20LIVE-green?style=for-the-badge&color=3fFD7f">
+<img src="https://img.shields.io/badge/-LIVE%20DEMO-green?style=for-the-badge&color=3fFD7f">
 </a>
 <a href="https://github.com/siralexeu/mcdonald-financial-analysis" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
