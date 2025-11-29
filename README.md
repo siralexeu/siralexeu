@@ -55,7 +55,7 @@
 <a href="https://citadinconsulting.netlify.app/" target="_blank">
 <img src="https://img.shields.io/badge/-LIVE%20DEMO-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
 </a>
-<a href="https://github.com/siralexeu/citadin-consulting" target="_blank">
+<a href="https://github.com/siralexeu/citadin-site" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-555555?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
