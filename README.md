@@ -51,6 +51,33 @@
 
 ---
 
+Perfect! Iată proiectul adăugat:
+markdown## 🌟 Proiecte Favorite
+
+### 🎮 MyGameList
+<a href="https://mygamelistapp.onrender.com/" target="_blank">
+<img src="https://img.shields.io/badge/-LIVE%20DEMO-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+</a>
+<a href="https://github.com/siralexeu/MyGameList" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-555555?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+**Aplicație de licență pentru gestionarea bibliotecii de jocuri**
+
+---
+
+### 🐛 BugTracker
+<a href="https://siralexeu.github.io/BugTracker/" target="_blank">
+<img src="https://img.shields.io/badge/-LIVE%20DEMO-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+</a>
+<a href="https://github.com/siralexeu/BugTracker" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-555555?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+**Aplicație web pentru gestionarea rezolvării bug-urilor în echipă**
+
+--
+
 ### 🚀 Mai multe proiecte
 <a href="https://github.com/siralexeu?tab=repositories" target="_blank">
 <img src="https://img.shields.io/badge/-VEZI%20TOT-555555?style=for-the-badge&logo=github&logoColor=white">
