@@ -3,7 +3,7 @@
 
 ## Salut!
 
-## [![GitHub followers](https://img.shields.io/github/followers/siralexeu?color=333&label=Follow&logo=github&logoColor=fff&style=flat-square)](https://github.com/siralexeu?tab=followers) ![Profile Views](https://komarev.com/ghpvc/?username=siralexeu&color=333&style=flat-square) [![Discord](https://img.shields.io/badge/Discord-333?style=flat-square&logo=discord&logoColor=fff)](https://discord.com)<br><br><br>
+# [![GitHub followers](https://img.shields.io/github/followers/siralexeu?color=333&label=Follow&logo=github&logoColor=fff&style=flat-square)](https://github.com/siralexeu?tab=followers) ![Profile Views](https://komarev.com/ghpvc/?username=siralexeu&color=333&style=flat-square) [![Discord](https://img.shields.io/badge/Discord-333?style=flat-square&logo=discord&logoColor=fff)](https://discord.com)<br><br><br>
 
 <!-- Adaugă link-urile tale social media -->
 <p align="left">
