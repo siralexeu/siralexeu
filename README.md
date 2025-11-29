@@ -34,11 +34,10 @@ pr
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C# icon" height="30" width="30" /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5 icon" height="30" width="30" /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3 icon" height="30" width="30" /></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash icon" height="30" width="30" /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux icon" height="30" width="30" /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub icon" height="30" width="30" /></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="Vercel icon" height="30" width="30" /></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" alt="Discord.js icon" height="30" width="30" /></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discord-original.svg" alt="Discord.js icon" height="30" width="30" /></code>
 
 
 <!-- List last updated on Sat Nov 29 2025 -->
