@@ -59,7 +59,7 @@
 <img src="https://img.shields.io/badge/GitHub-555555?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-**Aplicație web pentru gestionarea rezolvării bug-urilor în echipă**
+**Aplicație web pentru gestionarea rezolvării bug-urilor**
 
 ---
 
