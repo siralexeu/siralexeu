@@ -58,6 +58,8 @@
 
 **Descoperă toate proiectele**
 
+---
+
 ## 🧠 Tehnologii și abilități
 
 <!--START_SECTION:technologies-->
