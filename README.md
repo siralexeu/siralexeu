@@ -63,6 +63,18 @@
 
 ---
 
+### 🏢 Citadin Consulting
+<a href="https://citadinconsulting.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/-LIVE%20DEMO-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+</a>
+<a href="https://github.com/siralexeu/citadin-consulting" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-555555?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+**Site web pentru firmă de contabilitate - HTML, CSS, JavaScript**
+
+---
+
 ### 🚀 Mai multe proiecte
 <a href="https://github.com/siralexeu?tab=repositories" target="_blank">
 <img src="https://img.shields.io/badge/-VEZI%20TOT-555555?style=for-the-badge&logo=github&logoColor=white">
