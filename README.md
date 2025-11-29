@@ -15,21 +15,65 @@
 
 ## 🌟 Proiecte Favorite
 
-## 🌟 Proiecte Favorite
+### 🎮 MyGameList
+<a href="https://mygamelistapp.onrender.com/" target="_blank">
+<img src="https://img.shields.io/badge/-DEMO%20LIVE-green?style=for-the-badge&color=3fFD7f">
+</a>
+<a href="https://github.com/siralexeu/MyGameList" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
 
-🎮 **[MyGameList](https://mygamelistapp.onrender.com/)** · [Repo](https://github.com/siralexeu/MyGameList)  
-Aplicație de licență pentru gestionarea bibliotecii de jocuri  
-`React` `Node.js` `PostgreSQL` `Express`
+**Aplicație de licență pentru gestionarea bibliotecii de jocuri**
 
-📄 **[RAG-APP](https://groq-rag-app.streamlit.app/)** · [Repo](https://github.com/siralexeu/RAG-APP)  
-Chat cu fișiere PDF folosind AI  
-`Python` `Streamlit` `Groq API` `LangChain`
+<img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white">
+<img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white">
 
-📊 **[McDonald's Financial Analysis](https://mcdonald-financial-analysis.streamlit.app/)** · [Repo](https://github.com/siralexeu/mcdonald-financial-analysis)  
-Analiză financiară interactivă cu Streamlit  
-`Python` `Streamlit` `Pandas` `Plotly`
+---
 
-➡️ **[Vezi toate proiectele](https://github.com/siralexeu?tab=repositories)**
+### 📄 RAG-APP
+<a href="https://groq-rag-app.streamlit.app/" target="_blank">
+<img src="https://img.shields.io/badge/-DEMO%20LIVE-green?style=for-the-badge&color=3fFD7f">
+</a>
+<a href="https://github.com/siralexeu/RAG-APP" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+
+**Chat cu fișiere PDF folosind AI (Streamlit)**
+
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white">
+<img src="https://img.shields.io/badge/-Groq-000000?style=flat&logo=groq&logoColor=white">
+<img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white">
+
+---
+
+### 📊 McDonald's Financial Analysis
+<a href="https://mcdonald-financial-analysis.streamlit.app/" target="_blank">
+<img src="https://img.shields.io/badge/-DEMO%20LIVE-green?style=for-the-badge&color=3fFD7f">
+</a>
+<a href="https://github.com/siralexeu/mcdonald-financial-analysis" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+
+**Analiză financiară interactivă cu Streamlit**
+
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white">
+<img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=plotly&logoColor=white">
+
+---
+
+### 🚀 Mai multe proiecte
+<a href="https://github.com/siralexeu?tab=repositories" target="_blank">
+<img src="https://img.shields.io/badge/-VEZI%20TOT-blueviolet?style=for-the-badge&logo=github">
+</a>
+
+**Descoperă și alte proiecte interesante pe GitHub!**
+
+
 ## 🧠 Tehnologii și abilități
 
 <!--START_SECTION:technologies-->
