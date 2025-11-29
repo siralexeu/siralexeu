@@ -13,9 +13,36 @@
 <code><a href="https://youtube.com/@username" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/youtube.svg" alt="YouTube" width="30" height="30"/></a></code>
 </p>
 
-## 🌟 Proiecte favorite
+## 🌟 Proiecte Favorite
 
-pr
+### 🎮 [MyGameList](https://mygamelistapp.onrender.com/) 
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/siralexeu/MyGameList)
+[![Live](https://img.shields.io/badge/Demo-Live-success?style=for-the-badge)](https://mygamelistapp.onrender.com/)
+
+**Aplicație de licență pentru gestionarea bibliotecii de jocuri**
+- Stack: React, Node.js, PostgreSQL, Express
+- Features: Autentificare, CRUD operations, Dashboard interactiv
+
+---
+
+### 📄 [RAG-APP](https://groq-rag-app.streamlit.app/)
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/siralexeu/RAG-APP)
+[![Live](https://img.shields.io/badge/Demo-Live-success?style=for-the-badge)](https://groq-rag-app.streamlit.app/)
+
+**Chat cu fișiere PDF folosind AI**
+- Stack: Python, Streamlit, Groq API, LangChain
+- Features: Upload PDF, RAG (Retrieval Augmented Generation), Chat interface
+
+---
+
+### 📊 [McDonald's Financial Analysis](https://mcdonald-financial-analysis.streamlit.app/)
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/siralexeu/mcdonald-financial-analysis)
+[![Live](https://img.shields.io/badge/Demo-Live-success?style=for-the-badge)](https://mcdonald-financial-analysis.streamlit.app/)
+
+**Analiză financiară interactivă**
+- Stack: Python, Streamlit, Pandas, Plotly
+- Features: Visualizări interactive, Analiză de date, Grafice financiare
+
 
 ## 🧠 Tehnologii și abilități
 
