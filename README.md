@@ -7,16 +7,16 @@
 
 <!-- Adaugă link-urile tale social media -->
 <p align="left">
-<code><a href="https://instagram.com/username" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram" width="30" height="30"/></a></code>
-<code><a href="https://twitter.com/username" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" alt="Twitter" width="30" height="30"/></a></code>
-<code><a href="https://discord.com/users/YOUR_ID" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" alt="Discord" width="30" height="30"/></a></code>
-<code><a href="https://youtube.com/@username" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/youtube.svg" alt="YouTube" width="30" height="30"/></a></code>
+<code><a href="https://instagram.com/alex.cavaler" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram" width="30" height="30"/></a></code>
+<code><a href="https://twitter.com/alexcavaler_" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" alt="Twitter" width="30" height="30"/></a></code>
+<code><a href="https://discord.com/users/alexeu" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" alt="Discord" width="30" height="30"/></a></code>
+<code><a href="https://youtube.com/@alex_eu" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/youtube.svg" alt="YouTube" width="30" height="30"/></a></code>
 </p>
 
 ## 🌟 Proiecte Favorite
 
 ### 🎮 MyGameList
-<a href="https://mygamelistapp.onrender.com/" target="_blank">
+<a href="https://mygamelist.up.railway.app/" target="_blank">
 <img src="https://img.shields.io/badge/-LIVE%20DEMO-blueviolet?style=for-the-badge&logo=react&logoColor=black">
 </a>
 <a href="https://github.com/siralexeu/MyGameList" target="_blank">
