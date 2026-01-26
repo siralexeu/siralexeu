@@ -7,10 +7,10 @@
 
 <!-- Adaugă link-urile tale social media -->
 <p align="left">
-<code><a href="https://instagram.com/alex.cavaler" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram" width="30" height="30"/></a></code>
+<code><a href="https://instagram.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram" width="30" height="30"/></a></code>
 <code><a href="https://twitter.com/alexcavaler_" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" alt="Twitter" width="30" height="30"/></a></code>
 <code><a href="https://discord.com/users/alexeu" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" alt="Discord" width="30" height="30"/></a></code>
-<code><a href="https://youtube.com/@alex_eu" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/youtube.svg" alt="YouTube" width="30" height="30"/></a></code>
+<code><a href="https://youtube.com/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/youtube.svg" alt="YouTube" width="30" height="30"/></a></code>
 </p>
 
 ## 🌟 Proiecte Favorite
