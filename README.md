@@ -3,8 +3,7 @@
 
 # Salut!
 
-# [![GitHub followers](https://img.shields.io/github/followers/siralexeu?color=333&label=Follow&logo=github&logoColor=fff&style=flat-square)](https://github.com/siralexeu?tab=followers) 
-[![Image of https://github.com/siralexeu/my-views-counter](https://github.com/siralexeu/my-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/siralexeu/my-views-counter)
+# [![GitHub followers](https://img.shields.io/github/followers/siralexeu?color=333&label=Follow&logo=github&logoColor=fff&style=flat-square)](https://github.com/siralexeu?tab=followers) [![Image of https://github.com/siralexeu/my-views-counter](https://github.com/siralexeu/my-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/siralexeu/my-views-counter)
 
 <!-- Adaugă link-urile tale social media -->
 <p align="left">
