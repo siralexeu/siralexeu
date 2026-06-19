@@ -27,7 +27,7 @@ Aplicație de licență pentru GESTIONAREA BIBLIOTECII DE JOCURI
 
 ---
 
-### 🏢 Citadin Consulting
+### 🏢 Citadin Consulting SRL site
 <a href="https://citadinconsulting.netlify.app/" target="_blank">
 <img src="https://img.shields.io/badge/-LIVE%20DEMO-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
 </a>
